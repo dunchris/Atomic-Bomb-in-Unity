@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/cjdun/OneDrive/Unity/Graphics/Atomic-Bomb-in-Unity/Atomic Bomb -
+    Smoke Effect/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

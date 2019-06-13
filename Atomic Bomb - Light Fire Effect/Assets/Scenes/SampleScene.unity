@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 1444892085}
   - component: {fileID: 1444892087}
   m_Layer: 0
-  m_Name: Point Light
+  m_Name: Blinding Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -428,7 +428,7 @@ GameObject:
 --- !u!199 &1523200237
 ParticleSystemRenderer:
   serializedVersion: 6
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5238,7 +5238,7 @@ GameObject:
 --- !u!199 &2052242062
 ParticleSystemRenderer:
   serializedVersion: 6
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
